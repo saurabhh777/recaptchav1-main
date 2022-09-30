@@ -1,0 +1,23 @@
+#logout {
+  text-decoration: none;
+  color: black;
+}
+
+.p-dashboard {
+  background-color: #d9d9d94a;
+  height: 100vh;
+  text-align: center;
+}
+
+.top {
+  background-color: white !important;
+}
+
+.mini {
+  color: black !important;
+}
+
+.p-title {
+  position: relative;
+  left: 500%;
+}
